@@ -1,0 +1,22 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "demo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonCheung1989/demo-node.git"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonCheung1989/demo-node/issues"
+  },
+  "homepage": "https://github.com/SimonCheung1989/demo-node#readme",
+  "dependencies": {
+    "acme-client": "^2.2.3"
+  }
+}
